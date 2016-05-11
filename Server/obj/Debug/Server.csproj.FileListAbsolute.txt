@@ -1,0 +1,6 @@
+D:\Magnis projects\Second App\X-Project\Test-console project\Socket TcpClient_Server\Testik\Server\Server\bin\Debug\Server.exe.config
+D:\Magnis projects\Second App\X-Project\Test-console project\Socket TcpClient_Server\Testik\Server\Server\bin\Debug\Server.exe
+D:\Magnis projects\Second App\X-Project\Test-console project\Socket TcpClient_Server\Testik\Server\Server\bin\Debug\Server.pdb
+D:\Magnis projects\Second App\X-Project\Test-console project\Socket TcpClient_Server\Testik\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+D:\Magnis projects\Second App\X-Project\Test-console project\Socket TcpClient_Server\Testik\Server\Server\obj\Debug\Server.exe
+D:\Magnis projects\Second App\X-Project\Test-console project\Socket TcpClient_Server\Testik\Server\Server\obj\Debug\Server.pdb
